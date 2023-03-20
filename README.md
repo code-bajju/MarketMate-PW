@@ -1,10 +1,11 @@
 # MarketMate by team EliteByte
 ## MarketMate
 How well do you study before investing in a stock?
-OR HOW long do you study to put your money on risk?
+Or How long do you study to put your money on risk?
+
 Would you like a shortcut that helps you save your time and skip the effort? 
 
-### solution
+### Solution
 Here we are with solution : "MARKET MATE"
 
 Market mate is a website in which we suggest the stocks which are best for day trading, chosen based on several factors : such as stock volume, gap-up gap-down, candlestick pattern, etc that a real life analyst looks upon.
