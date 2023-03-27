@@ -21,11 +21,11 @@ Also, we choose the stock based on the vwap and moving averages.
 
 
 - Vishal Gupta (Team Mentor)
-- Bajrang Gour
-- Rishabh Kumar Singh
-- Ankush Singh
-- Darshan Soni
-- Niraj Kumar
+- Bajrang Gour (Back-end Developer)
+- Rishabh Kumar Singh ( Front-end Developer)
+- Ankush Singh ( Designer)
+- Darshan Soni ( Stock Market)
+- Niraj Kumar ( Information Collection)
 
 
 ## Conclusion 
